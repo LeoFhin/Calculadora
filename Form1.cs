@@ -153,16 +153,31 @@ namespace Calculadora
                         break;
                 }
 
+                string calculo = $"{primeiroNumero} {operacao} {segundoNumero} = {resultado}";
                 richTextBox1.Text = resultado.ToString();
+
+                Historico.SalvarNoArquivo(calculo);
+                
             }
         }
 
         private void btnLimpar_Click(object sender, EventArgs e)
         {
-            richTextBox1.Clear(); 
-            primeiroNumero = 0; 
-            segundoNumero = 0; 
+            richTextBox1.Clear();
+            primeiroNumero = 0;
+            segundoNumero = 0;
             operacao = "";
+
+            
+        }
+
+        private void btnHistorico_Click(object sender, EventArgs e)
+        {
+            Hsitorico_Calculadora formHistorico = new Hsitorico_Calculadora();
+            formHistorico.ShowDialog();
         }
     }
-}
+} 
+
+// adiconar criptografia
+

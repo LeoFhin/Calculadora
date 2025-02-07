@@ -14,3 +14,6 @@ C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windo
 C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windows\Calculadora.genruntimeconfig.cache
 C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windows\ref\Calculadora.dll
 C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windows\Calculadora.Calculadora.resources
+C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windows\Calculadora.Properties.Resources.resources
+C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windows\Calculadora.sourcelink.json
+C:\Users\leonardo.santos\Desktop\ProjetoVsoft\Calculadora\obj\Debug\net8.0-windows\Calculadora.Hsitorico_Calculadora.resources

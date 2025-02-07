@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Calculadora));
             richTextBox1 = new RichTextBox();
             btn7 = new Button();
             btn8 = new Button();
@@ -46,6 +47,7 @@
             btnSomar = new Button();
             btnSubtracao = new Button();
             btnLimpar = new Button();
+            btnHistorico = new Button();
             SuspendLayout();
             // 
             // richTextBox1
@@ -243,12 +245,23 @@
             btnLimpar.UseVisualStyleBackColor = true;
             btnLimpar.Click += btnLimpar_Click;
             // 
+            // btnHistorico
+            // 
+            btnHistorico.Image = (Image)resources.GetObject("btnHistorico.Image");
+            btnHistorico.Location = new Point(260, 12);
+            btnHistorico.Name = "btnHistorico";
+            btnHistorico.Size = new Size(42, 40);
+            btnHistorico.TabIndex = 3;
+            btnHistorico.UseVisualStyleBackColor = true;
+            btnHistorico.Click += btnHistorico_Click;
+            // 
             // Calculadora
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ControlLight;
             ClientSize = new Size(310, 392);
+            Controls.Add(btnHistorico);
             Controls.Add(btn4);
             Controls.Add(btnSubtracao);
             Controls.Add(btnDivisao);
@@ -295,5 +308,6 @@
         private Button btnSomar;
         private Button btnSubtracao;
         private Button btnLimpar;
+        private Button btnHistorico;
     }
 }

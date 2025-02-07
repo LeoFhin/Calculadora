@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\hsitorico calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|solutionrelative:hsitorico calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|c:\\users\\leonardo.santos\\desktop\\projetovsoft\\calculadora\\hsitorico calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|solutionrelative:hsitorico calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|c:\\users\\leonardo.santos\\desktop\\projetovsoft\\calculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|c:\\users\\leonardo.santos\\desktop\\projetovsoft\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|c:\\users\\leonardo.santos\\desktop\\projetovsoft\\calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|c:\\users\\leonardo.santos\\desktop\\projetovsoft\\calculadora\\historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23BE82A3-A6C0-4717-9449-EE4E094C8734}|Calculadora.csproj|solutionrelative:historico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +34,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAAAQwJcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAJEAAAAAAAAAAADgv6oAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T18:22:15.774Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:56:33.725Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:46:28.521Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -60,15 +103,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
+              "DocumentIndex": 1,
+              "Title": "Hsitorico Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Hsitorico Calculadora.cs",
+              "RelativeDocumentMoniker": "Hsitorico Calculadora.cs",
+              "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Hsitorico Calculadora.cs",
+              "RelativeToolTip": "Hsitorico Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T15:56:33.725Z",
+              "WhenOpened": "2025-02-06T17:37:06.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hsitorico Calculadora.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Hsitorico Calculadora.cs",
+              "RelativeDocumentMoniker": "Hsitorico Calculadora.cs",
+              "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Hsitorico Calculadora.cs [Projeto]",
+              "RelativeToolTip": "Hsitorico Calculadora.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:18:51.745Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Historico.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Historico.cs",
+              "RelativeDocumentMoniker": "Historico.cs",
+              "ToolTip": "C:\\Users\\leonardo.santos\\Desktop\\ProjetoVsoft\\Calculadora\\Historico.cs",
+              "RelativeToolTip": "Historico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T15:15:21.277Z"
             }
           ]
         }
